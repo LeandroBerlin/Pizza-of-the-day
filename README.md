@@ -2,6 +2,8 @@
 
 Modified version of Wes Bos "React for Beginners" course app. Eat Pizza instead of fishes!
 
+![Screenshot](./screen.png?raw=true "Screenshot")
+
 ## Features
 
 - The StorePicker components show a list to *"View existing Stores"* from Firebase
